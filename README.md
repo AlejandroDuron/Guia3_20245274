@@ -2,9 +2,6 @@
 
 Una aplicación interactiva desarrollada en React para buscar películas, ver detalles en tiempo real y gestionar una lista personal de películas vistas con calificaciones.
 
-![Project Screenshot](ruta-a-tu-screenshot.png) 
-*(Nota: ¡Sube una captura de pantalla de tu app y pon la ruta aquí!)*
-
 ## 🚀 Descripción
 
 Este proyecto fue construido para demostrar el dominio de los fundamentos de **React**, el manejo de **efectos secundarios complejos** y la persistencia de datos en el navegador. La aplicación consume la API de OMDb para obtener datos en tiempo real y ofrece una experiencia de usuario fluida y persistente.
